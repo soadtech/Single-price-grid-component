@@ -4,6 +4,7 @@
 
 ## Bienvenido 🥰
 Gracias por revisar este desafío de codificación de front-end.
+<br>
 **Para hacer este desafío, necesita una comprensión básica de HTML y CSS.**
 
 ## El desafio
